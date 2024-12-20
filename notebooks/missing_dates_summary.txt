@@ -1,0 +1,242 @@
+Global Date Range: 2005-01-01 00:00:00 to 2024-11-01 00:00:00
+
+Sheet 'Aggregate':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'British_Columbia':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Vancouver_Island':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Victoria':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Lower_Mainland':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Greater_Vancouver':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Fraser_Valley':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Chilliwack_and_District':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Interior_BC':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Alberta':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Calgary':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Edmonton':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Saskatchewan':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Regina':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Saskatoon':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Winnipeg':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Ontario':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Bancroft_and_Area':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Barrie_and_District':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Brantford_Region':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Cambridge':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Grey_Bruce_Owen_Sound':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Guelph_and_District':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Hamilton_Burlington':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Huron_Perth':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Kawartha_Lakes':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Kingston_and_Area':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Kitchener_Waterloo':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Lakelands':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'London_St_Thomas':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Mississauga':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Niagara_Region':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'North_Bay':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Northumberland_Hills':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Oakville_Milton':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Ottawa':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Peterborough_and_Kawarthas':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Quinte_and_District':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Rideau_St_Lawrence':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Sault_Ste_Marie':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Simcoe_and_District':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Tillsonburg_District':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Greater_Toronto':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Windsor_Essex':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Woodstock_Ingersoll':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Quebec':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Centre_du_Quebec':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Estrie':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Mauricie':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Montreal_CMA':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Quebec_CMA':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'New_Brunswick':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Fredericton':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Greater_Moncton':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Saint_John_NB':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Nova_Scotia':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Halifax_Dartmouth':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Prince_Edward_Island':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'Newfoundland_and_Labrador':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+
+Sheet 'St_Johns_NL':
+ - Total Missing Dates: 7006
+ - Sample Missing Dates: [Timestamp('2005-01-02 00:00:00'), Timestamp('2005-01-03 00:00:00'), Timestamp('2005-01-04 00:00:00'), Timestamp('2005-01-05 00:00:00'), Timestamp('2005-01-06 00:00:00'), Timestamp('2005-01-07 00:00:00'), Timestamp('2005-01-08 00:00:00'), Timestamp('2005-01-09 00:00:00'), Timestamp('2005-01-10 00:00:00'), Timestamp('2005-01-11 00:00:00'), Timestamp('2005-01-12 00:00:00'), Timestamp('2005-01-13 00:00:00'), Timestamp('2005-01-14 00:00:00'), Timestamp('2005-01-15 00:00:00'), Timestamp('2005-01-16 00:00:00')]
+

@@ -1,0 +1,242 @@
+Global Month Range: 2005-01 to 2024-11
+
+Sheet 'Aggregate':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'British_Columbia':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Vancouver_Island':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Victoria':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Lower_Mainland':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Greater_Vancouver':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Fraser_Valley':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Chilliwack_and_District':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Interior_BC':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Alberta':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Calgary':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Edmonton':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Saskatchewan':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Regina':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Saskatoon':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Winnipeg':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Ontario':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Bancroft_and_Area':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Barrie_and_District':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Brantford_Region':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Cambridge':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Grey_Bruce_Owen_Sound':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Guelph_and_District':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Hamilton_Burlington':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Huron_Perth':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Kawartha_Lakes':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Kingston_and_Area':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Kitchener_Waterloo':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Lakelands':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'London_St_Thomas':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Mississauga':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Niagara_Region':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'North_Bay':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Northumberland_Hills':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Oakville_Milton':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Ottawa':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Peterborough_and_Kawarthas':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Quinte_and_District':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Rideau_St_Lawrence':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Sault_Ste_Marie':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Simcoe_and_District':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Tillsonburg_District':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Greater_Toronto':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Windsor_Essex':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Woodstock_Ingersoll':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Quebec':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Centre_du_Quebec':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Estrie':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Mauricie':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Montreal_CMA':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Quebec_CMA':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'New_Brunswick':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Fredericton':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Greater_Moncton':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Saint_John_NB':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Nova_Scotia':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Halifax_Dartmouth':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Prince_Edward_Island':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'Newfoundland_and_Labrador':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
+Sheet 'St_Johns_NL':
+ - Total Missing Months: 0
+ - Sample Missing Months: []
+
